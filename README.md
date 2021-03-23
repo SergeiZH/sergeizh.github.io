@@ -1,6 +1,6 @@
 # CV Juni Frontendov
 
-1. Juni Frontendov
+1. Juni Fron
 2. gmail - edu.diff@gmail.com, gitHub - [code wars repository](https://github.com/sergeiZh/CodeWars)
 3. I trully want to learn javascript :innocent:. I had several attempts to do it but for some reasons stopped at the begining. JS is now a market leading
 programming language with presence on both front-end and back-end sides. It would be greate to be able to work with it.
