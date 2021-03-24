@@ -1,6 +1,6 @@
 # Juno
 # Frontendov
-[![Juno Frontendov](https://media.fromthegrapevine.com/assets/images/2017/1/jeff-bridges-dude.jpg.839x0_q71_crop-scale.jpg =250x250)](link to foto "Juno Frontendov")
+[![Juno Frontendov](https://media.fromthegrapevine.com/assets/images/2017/1/jeff-bridges-dude.jpg.839x0_q71_crop-scale.jpg | width=250)](link to foto "Juno Frontendov")
 
 # CV
 
